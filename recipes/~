@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<title>Odin Recipies</title>
+</head>
+
+<body>
+<h1>Odin Recipes</h1>
+<p><a href="recipes/teriyaki_salmon.html" target="_blank" rel="noopener noreferrer">Teriyaki Salmon</a></p>
+<p><a href="recipes/baked_chicken.html" target="_blank" rel="noopener noreferrer">Baked Chicken</a></p>
+<p><a href="recipes/tacos.html" target="_blank" rel="noopener noreferrer">Tacos</a></p>
+
+</body>
+
+
+
+</html>
